@@ -1,7 +1,7 @@
 storm-twitter-word-count
 ========================
 
-Sample project based on https://github.com/abh1nav/dvto1 demonstrating real-time computation Storm framework (https://github.com/nathanmarz/storm).
+This is a sample project based on https://github.com/abh1nav/dvto1 demonstrating real-time computation Storm framework (https://github.com/nathanmarz/storm).
 
 See my blog post for mor details on this project: http://kaviddiss.com/2013/05/17/how-to-get-started-with-storm-framework-in-5-minutes/.
 
